@@ -40,3 +40,12 @@ My QA journey started over 5 years when I transitioned from role of App publishi
 - Deep knowledge on Apple's and Google's technologies for mobile app development - Apple Developer program and certifications, usage of Xcode, creation and deployment of iOS app in App Store, testing via Testflight, ad hoc testing. Usage of Android studio for creating and debugging android mobile apps, adb tool, android emulators, Google Play Store flows for creation and release of mobile application
 - REST API - GET, POST, PUT, PATCH, DELETE methods for testing components without UI or for generating a CMS data for testing purposes. Some knowlegde on how to write API tests in Postman
 - Basic automation testing experience - using a Playwrigt and WebDriverIO frameworks I've developed e2e tests that cover most crucial part of platform (account creation, application creation and purchase flow). This included creating a custom selectors specifically designed for e2e tests and using a page object model for simplicty and re-usage of components
+
+## Soft skills 📁
+
+- Precision
+- Teamwork
+- Adaptability
+- Assertiveness
+- Problem solving
+- Research
