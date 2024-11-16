@@ -30,3 +30,13 @@ My QA journey started over 5 years when I transitioned from role of App publishi
 - $${\color{lightblue}Drobox}$$ - for sharing and storage of documents
 - $${\color{lightblue}QuickBuild}$$ - basic CD/CI knowledge 
 - $${\color{lightblue}Firebase}$$ - used for analytics, push notifications
+
+## Tech skills 💻
+
+- Agile framework knowlegde - Sprint planning, backlog grooming, daily stand-up's, reviews and retrospectives
+- Bug lifecycle - creating clear and well documented bug reports with precise reproduction steps, desciptions, environment, severty and priority, attachments. Knowledge on how bug lifecycle works (Opened, In progress, In Review, Resolved, etc). Creation of releases with correct bug fixes, versions and descriptions within project management tool
+- Test case management - Desinging and maintenance of test suites and cases, assigning proper tags to test cases like type, severity, priority, automation status, behaviour. Creating test plans, preparing test data if needed (emails, passwords, various data files), executing test runs and presenting reports
+- Experience with various manual testing types - black box testing, integration testing, system testing, exploratory testing, user acceptance testing. This includes a web and mobile based apps
+- Deep knowledge on Apple's and Google's technologies for mobile app development - Apple Developer program and certifications, usage of Xcode, creation and deployment of iOS app in App Store, testing via Testflight, ad hoc testing. Usage of Android studio for creating and debugging android mobile apps, adb tool, android emulators, Google Play Store flows for creation and release of mobile application
+- REST API - GET, POST, PUT, PATCH, DELETE methods for testing components without UI or for generating a CMS data for testing purposes. Some knowlegde on how to write API tests in Postman
+- Basic automation testing experience - using a Playwrigt and WebDriverIO frameworks I've developed e2e tests that cover most crucial part of platform (account creation, application creation and purchase flow). This included creating a custom selectors specifically designed for e2e tests and using a page object model for simplicty and re-usage of components
