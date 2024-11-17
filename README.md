@@ -49,3 +49,7 @@ My QA journey started over 5 years when I transitioned from role of App publishi
 - Assertiveness
 - Problem solving
 - Research
+
+## Samples 🔬
+
+This is a sample on how would I approach to project with a test plan, test cases, bug report and test report
