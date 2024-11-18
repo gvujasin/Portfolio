@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me 👋
-Hi, my name is Goran. I'm a QA Tester with more that 12 years of experience in IT with last 5 years as sole QA in product based company. I would like to share my knowledge of QA and showcase my practical skills that I have gained through over the years by self-education and trough my job. I am determined to continue to grow & learn in this field.
+Hi, my name is Goran. I'm a QA Tester with more that 12 years of experience in IT with last 5 years as sole QA in product based company. I would like to share my knowledge of QA and showcase my practical skills that I have gained through over the years by self-education and trough my job. I’m dedicated to learn, improve and challenge myselft to help create better products and services.
 
 
 [My Linkedin Profile](https://www.linkedin.com/in/goran-vujasin/)
