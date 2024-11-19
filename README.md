@@ -14,12 +14,11 @@ My QA journey started over 5 years when I transitioned from role of App publishi
 
 - $${\color{lightblue}Jira}$$, $${\color{lightblue}Trello}$$ - for project management & bug tracking
 - $${\color{lightblue}Confluence}$$ - storing informations and documents about project
-- $${\color{lightblue}Qase.io}$$ - for test management
+- $${\color{lightblue}Qase.io}$$ - for test case management
 - $${\color{lightblue}Slack}$$ - communication within the team
-- $${\color{lightblue}Chrome Devtools}$$ - for better testing and improving bug reports
-- $${\color{lightblue}Google Drive}$$ - storing data
-- $${\color{lightblue}Git}$$ - for better work in development team and controlling software versions
-- $${\color{lightblue}GitHub}$$ - supporting Git and preparing my repositories
+- $${\color{lightblue}Chrome Devtools}$$ - for debugging, checking resposivnes, identifying elements of website, console logs, network requests
+- $${\color{lightblue}Google Drive}$$ - storing data, creating various documentations, tables, presentations
+- $${\color{lightblue}GitHub}$$ - supporting Git, storing code for automation, accesing other projects
 - $${\color{lightblue}Android Studio}$$ - running and debuggind android apps on simulator or real device
 - $${\color{lightblue}Xcode}$$ - running and debuggind iOS apps on simulator or real device
 - $${\color{lightblue}Postman}$$ - creating collections, doing a basic API testing and data mocking
@@ -52,6 +51,16 @@ My QA journey started over 5 years when I transitioned from role of App publishi
 
 ## Samples 🔬
 
-This is a sample on how would I approach to project with a test plan, test cases and a bug report:
+### Manual
 
-[Link](https://docs.google.com/spreadsheets/d/1GlaXV5VepZ8dJ3SJdce2oagRDCXS_5wJoOkse9OKyuA/edit?usp=sharing) to spreadsheet with Test Plan, Test Scenarios, Test Cases a Bug reports
+Quick sample on my approach to project with a test plan, test cases and a bug report:
+
+[Link](https://docs.google.com/spreadsheets/d/1GlaXV5VepZ8dJ3SJdce2oagRDCXS_5wJoOkse9OKyuA/edit?usp=sharing) to spreadsheet with Test Plan, Test Scenarios, Test Cases a Bug reports (still work in progress)
+
+### Automation
+
+Tu staviti link na repozitorij sa automation projektom
+
+### API testing
+
+Tu staviti postman kolekciju sa nekoliko api testova
