@@ -52,4 +52,6 @@ My QA journey started over 5 years when I transitioned from role of App publishi
 
 ## Samples 🔬
 
-This is a sample on how would I approach to project with a test plan, test cases, bug report and test report
+This is a sample on how would I approach to project with a test plan, test cases and a bug report:
+
+[Link](https://docs.google.com/spreadsheets/d/1GlaXV5VepZ8dJ3SJdce2oagRDCXS_5wJoOkse9OKyuA/edit?usp=sharing) to spreadsheet with Test Plan, Test Scenarios, Test Cases a Bug reports
