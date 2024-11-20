@@ -61,6 +61,4 @@ Quick sample on my approach to project with a test plan, test cases and a bug re
 
 Tu staviti link na repozitorij sa automation projektom
 
-### API testing
 
-Tu staviti postman kolekciju sa nekoliko api testova
