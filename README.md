@@ -55,10 +55,8 @@ My QA journey started over 5 ago years when I transitioned from role of App publ
 
 Quick sample on my approach to project with a test plan, test cases and a bug report:
 
-[Link](https://docs.google.com/spreadsheets/d/1GlaXV5VepZ8dJ3SJdce2oagRDCXS_5wJoOkse9OKyuA/edit?usp=sharing) to spreadsheet with Test Plan, Test Scenarios, Test Cases a Bug reports (still work in progress)
+[Link](https://docs.google.com/spreadsheets/d/1GlaXV5VepZ8dJ3SJdce2oagRDCXS_5wJoOkse9OKyuA/edit?usp=sharing) to spreadsheet with Test Plan, Test Scenarios, Test Cases a Bug reports
 
-### Automation
 
-Tu staviti link na repozitorij sa automation projektom
 
 
